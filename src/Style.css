@@ -1,0 +1,16 @@
+.style{
+    width: fit-content;
+
+}
+.head{
+    text-align: center;
+    
+    margin-top: 50px;
+}
+.coloumn{
+    display: flex;
+    justify-content: center;
+    
+    height: 250px;
+    width: 1N00;
+}

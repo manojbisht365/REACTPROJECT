@@ -1,0 +1,21 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.container {
+  background-color: yellow;
+  /* border-radius: 125%; */
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+.joke {
+  width: 50%;
+  height: 128%;
+  background-color: aqua;
+}
+
+.tbn {
+  display: flex;
+}
